@@ -1,0 +1,7 @@
+Advent of Code 2022 solutions written in Java.
+Author: Tim Behrendsen
+
+Link: https://adventofcode.com/2022/
+
+Various days are in separate directories, each with their own main. Typically each module has a part1 and a part2,
+though sometimes a few times I didn't keep the part1 once I solved it.
