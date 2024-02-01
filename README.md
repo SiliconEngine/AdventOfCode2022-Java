@@ -1,8 +1,5 @@
 # Advent of Code 2022 solutions written in Java.
 ## Author: Tim Behrendsen
-#Advent of Code 2022 solutions written in Java.
-
-##Author: Tim Behrendsen
 
 Link: https://adventofcode.com/2022/
 
